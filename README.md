@@ -20,6 +20,10 @@
 
 ### 预训练权重下载地址：
 * ResNet50+FPN backbone: https://download.pytorch.org/models/fasterrcnn_resnet50_fpn_coco-258fb6c6.pth
+
+### 训练完成的权重：
+* 链接：https://pan.baidu.com/s/1jOkdKeZri6MZRmNy40n8jg 提取码：16pf 
+
  
  
 ### 数据集，本例程使用的是PASCAL VOC2017数据集
